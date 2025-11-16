@@ -38,4 +38,16 @@ Fast-forward
  3 files changed, 32 insertions(+), 2 deletions(-)
  create mode 100644 file3.txt
 
- 
+Step 5
+
+* main
+
+7e0c9a2 (HEAD -> main, origin/main) update step 4
+551c5cb step 4
+a146d64 step 3
+fc6f641 update file 2
+fb6a9e7 file 3
+bbcc7b4 step two
+3f5e2a0 step 1
+9d73ed7 file two
+099be13 file one
