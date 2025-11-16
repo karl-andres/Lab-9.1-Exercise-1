@@ -11,3 +11,15 @@ Step 2
 3f5e2a0 (HEAD -> leading_edge, main) step 1
 9d73ed7 (origin/main) file two
 099be13 file one
+
+Step 3
+
+* leading_edge
+  main
+
+fc6f641 (HEAD -> leading_edge, origin/leading_edge) update file 2
+fb6a9e7 file 3
+bbcc7b4 step two
+3f5e2a0 (main) step 1
+9d73ed7 (origin/main) file two
+099be13 file one
