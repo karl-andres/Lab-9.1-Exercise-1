@@ -23,3 +23,10 @@ bbcc7b4 step two
 3f5e2a0 (main) step 1
 9d73ed7 (origin/main) file two
 099be13 file one
+
+Step 4
+
+Yes it would work, but for it to work we would to have resolve the merge conflict on file2.txt.
+This is because I changed file2.txt on the leading_edge branch. On the original main branch it is not updated,
+so when attempting to merge I would have to resolve this conflict.
+
