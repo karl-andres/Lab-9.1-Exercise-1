@@ -2,3 +2,12 @@ Step 1
 
 9d73ed7 (HEAD -> main, origin/main) file two
 099be13 file one
+
+Step 2
+
+* leading_edge
+  main
+
+3f5e2a0 (HEAD -> leading_edge, main) step 1
+9d73ed7 (origin/main) file two
+099be13 file one
